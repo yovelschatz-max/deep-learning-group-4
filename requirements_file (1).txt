@@ -1,0 +1,8 @@
+streamlit==1.31.0
+torch==2.1.2
+torchvision==0.16.2
+transformers==4.36.2
+pillow==10.2.0
+opencv-python-headless==4.9.0.80
+numpy==1.24.3
+accelerate==0.25.0
